@@ -1,0 +1,11 @@
+Fizra: - 30(пр) -
+Math: 10(л) 50(пр) -
+History: 50(л) - -
+Physics: 70(л) 20(пр) 18(лаб)
+Informatics: 40(л) 12(пр) 20(лаб)
+Literature: 10(л) - 8(лаб)
+Russian: - - 90(лаб)
+
+
+Сводка по предметам: 
+{'Fizra': 30, 'Math': 60, 'History': 50, 'Physics': 108, 'Informatics': 72, 'Literature': 18, 'Russian': 90}
